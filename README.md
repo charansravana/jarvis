@@ -1,2 +1,2 @@
 # jarvis
-my first reprosetry
+my first Repository
